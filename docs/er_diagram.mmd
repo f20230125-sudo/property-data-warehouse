@@ -1,0 +1,70 @@
+erDiagram
+    dim_date ||--o{ fact_listings : "listed_date_key"
+    dim_date ||--o{ fact_listings : "last_updated_date_key"
+    dim_date ||--o{ fact_listings : "removed_date_key"
+    dim_location ||--o{ fact_listings : "location_key"
+    dim_agent ||--o{ fact_listings : "agent_key"
+    dim_property_type ||--o{ fact_listings : "property_type_key"
+
+    fact_listings {
+        varchar listing_id PK "degenerate dimension"
+        int property_type_key FK
+        int location_key FK
+        int agent_key FK "version valid on listed date"
+        int listed_date_key FK
+        int last_updated_date_key FK
+        int removed_date_key FK "99991231 while ACTIVE"
+        varchar purpose "SALE or RENT"
+        varchar listing_status "ACTIVE, REMOVED, EXPIRED"
+        decimal initial_price_aed
+        decimal current_price_aed
+        decimal size_sqft
+        smallint price_change_count
+        int view_count
+        int lead_count
+        int days_on_market "NULL until removed"
+    }
+
+    dim_date {
+        int date_key PK "YYYYMMDD"
+        date full_date UK
+        smallint day_of_week
+        varchar day_name
+        date week_start_date
+        varchar year_month
+        varchar year_quarter
+        smallint year_num
+        boolean is_weekend
+        boolean is_month_end
+        boolean is_placeholder "TRUE for 99991231"
+    }
+
+    dim_location {
+        int location_key PK
+        varchar location_id UK "business key"
+        varchar emirate
+        varchar city
+        varchar community
+        varchar sub_community
+        varchar market_tier
+    }
+
+    dim_property_type {
+        int property_type_key PK
+        varchar property_type
+        varchar property_group
+        smallint bedrooms
+        varchar bedroom_label
+        varchar property_type_label
+    }
+
+    dim_agent {
+        int agent_key PK
+        varchar agent_id "business key"
+        varchar agent_name
+        varchar agency_name "SCD2 tracked"
+        boolean is_verified "SCD2 tracked"
+        date effective_from
+        date effective_to "9999-12-31 if current"
+        boolean is_current
+    }
