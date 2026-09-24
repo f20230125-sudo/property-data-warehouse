@@ -1,0 +1,165 @@
+agent_id,agent_name,agency_name,is_verified,effective_from
+AGT-001,Karim Malik,Tidewater Estates,true,2025-10-30
+AGT-002,Ivan Kapoor,Redstone Real Estate,true,2024-05-11
+AGT-002,Ivan Kapoor,Summit Gate Properties,true,2025-05-20
+AGT-003,Vikram Khan,Amber Coast Properties,true,2025-12-04
+AGT-004,Ivan Bhatt,Palmview Realty,true,2024-07-02
+AGT-004,Ivan Bhatt,Harbour & Co Realty,true,2025-09-17
+AGT-005,Khalid Iyer,Ironwood Property Partners,false,2022-09-12
+AGT-005,Khalid Iyer,Ironwood Property Partners,true,2025-02-15
+AGT-006,Nadia Menon,Lotus Grove Properties,true,2022-05-10
+AGT-006,Nadia Menon,Summit Gate Properties,true,2026-03-06
+AGT-007,Layla Ortiz,Blue Harbour Estates,true,2022-09-12
+AGT-008,Noor Zaman,Oasis Key Realty,true,2023-04-03
+AGT-008,Noor Zaman,Redstone Real Estate,true,2026-05-05
+AGT-009,Mariam Petrov,Skybridge Properties,false,2024-09-15
+AGT-009,Mariam Petrov,Skybridge Properties,true,2025-10-22
+AGT-010,Yara Menon,Zenith Property Group,true,2024-08-31
+AGT-011,Bilal Yilmaz,Cedar Lane Homes,true,2022-04-28
+AGT-012,Daniel Mitchell,Oasis Key Realty,false,2024-02-14
+AGT-013,Lina Ansari,Desert Rose Estates,true,2023-11-27
+AGT-014,Ivan Mitchell,Cedar Lane Homes,true,2022-06-07
+AGT-015,Arjun Ali,Skybridge Properties,true,2023-03-28
+AGT-016,Yara Ortiz,Northgate Realty,true,2025-02-23
+AGT-017,Fatima Aziz,Sandstone Properties,false,2025-09-09
+AGT-017,Fatima Aziz,Sandstone Properties,true,2026-01-27
+AGT-018,Sameer Saleh,Ironwood Property Partners,true,2025-04-18
+AGT-018,Sameer Saleh,Silverline Realty,true,2026-02-06
+AGT-019,Sameer Thomas,Meridian Homes,true,2024-01-10
+AGT-020,Mariam Khan,Redstone Real Estate,true,2024-02-21
+AGT-021,Tariq Kowalski,Summit Gate Properties,true,2023-03-21
+AGT-021,Tariq Kowalski,Golden Dune Realty,true,2026-01-26
+AGT-022,Sameer Costa,Tidewater Estates,false,2026-03-17
+AGT-023,Noor Sharma,Redstone Real Estate,true,2023-07-18
+AGT-024,Sofia Kapoor,Zenith Property Group,true,2023-05-04
+AGT-025,Zainab Al Mansoori,Skybridge Properties,false,2024-06-09
+AGT-025,Zainab Al Mansoori,Golden Dune Realty,false,2025-12-04
+AGT-026,Khalid Reddy,Amber Coast Properties,true,2023-11-12
+AGT-027,Noor Kowalski,Summit Gate Properties,false,2023-11-08
+AGT-028,Vikram Al Mansoori,Pearl Anchor Realty,true,2022-04-16
+AGT-029,Faisal Khan,Silverline Realty,true,2024-06-30
+AGT-030,Amira Saleh,Silverline Realty,true,2022-09-27
+AGT-031,Rania Lopez,Palmview Realty,true,2023-05-18
+AGT-032,Marco Verma,Desert Rose Estates,true,2025-12-27
+AGT-033,Sameer Verma,Cedar Lane Homes,true,2022-03-19
+AGT-034,Yara Aziz,Summit Gate Properties,true,2022-05-22
+AGT-035,Yusuf Al Suwaidi,Meridian Homes,true,2023-06-26
+AGT-036,Ines Fernandes,Summit Gate Properties,true,2022-03-24
+AGT-037,Adil Bhatt,Ironwood Property Partners,false,2023-04-01
+AGT-037,Adil Bhatt,Ironwood Property Partners,true,2024-01-28
+AGT-038,Daniel Reddy,Meridian Homes,false,2025-03-05
+AGT-038,Daniel Reddy,Pearl Anchor Realty,false,2025-09-01
+AGT-039,Aisha Youssef,Desert Rose Estates,true,2026-06-17
+AGT-040,Daniel Yilmaz,Amber Coast Properties,false,2024-12-13
+AGT-041,Marco Petrov,Crescent Property Advisors,false,2022-12-08
+AGT-042,Karim Bhatt,Zenith Property Group,true,2024-12-10
+AGT-043,Rania Rashid,Coral Bay Real Estate,true,2026-06-09
+AGT-044,Sofia Haddad,Desert Rose Estates,false,2023-06-17
+AGT-044,Sofia Haddad,Desert Rose Estates,true,2025-07-24
+AGT-045,Marco Iyer,Harbour & Co Realty,false,2023-05-03
+AGT-045,Marco Iyer,Harbour & Co Realty,true,2024-04-05
+AGT-046,Yara Petrov,Crescent Property Advisors,false,2023-03-07
+AGT-046,Yara Petrov,Crescent Property Advisors,true,2024-12-10
+AGT-047,Fatima Sultan,Meridian Homes,false,2022-06-12
+AGT-047,Fatima Sultan,Meridian Homes,true,2025-04-25
+AGT-048,Rania Novak,Summit Gate Properties,false,2025-04-06
+AGT-048,Rania Novak,Summit Gate Properties,true,2025-07-18
+AGT-049,Karim Ansari,Cedar Lane Homes,false,2025-11-21
+AGT-049,Karim Ansari,Cedar Lane Homes,true,2026-06-24
+AGT-050,Yusuf Rashid,Tidewater Estates,true,2023-06-15
+AGT-051,Ines Hussein,Redstone Real Estate,true,2023-04-24
+AGT-051,Ines Hussein,Tidewater Estates,true,2025-05-22
+AGT-052,Hassan Ansari,Golden Dune Realty,true,2024-10-19
+AGT-053,Karim Thomas,Blue Harbour Estates,true,2023-09-07
+AGT-054,Dina Iyer,Lotus Grove Properties,false,2025-05-08
+AGT-055,Adil Khan,Redstone Real Estate,true,2025-02-14
+AGT-056,Ahmed Aziz,Meridian Homes,false,2022-09-15
+AGT-056,Ahmed Aziz,Meridian Homes,true,2026-05-05
+AGT-057,Khalid Mitchell,Falcon Ridge Properties,false,2023-01-02
+AGT-057,Khalid Mitchell,Falcon Ridge Properties,true,2025-10-19
+AGT-058,Ahmed Al Mansoori,Redstone Real Estate,true,2026-06-19
+AGT-059,Amira Haddad,Cedar Lane Homes,true,2024-05-31
+AGT-059,Amira Haddad,Summit Gate Properties,true,2026-04-20
+AGT-060,Yusuf Bhatt,Amber Coast Properties,true,2024-03-04
+AGT-061,Rohan Farouk,Harbour & Co Realty,true,2022-03-02
+AGT-062,Faisal Thomas,Northgate Realty,false,2025-11-20
+AGT-062,Faisal Thomas,Crescent Property Advisors,false,2026-05-09
+AGT-062,Faisal Thomas,Crescent Property Advisors,true,2026-05-27
+AGT-063,Layla Sharma,Summit Gate Properties,false,2024-03-16
+AGT-063,Layla Sharma,Summit Gate Properties,true,2025-11-22
+AGT-064,Jamal Bhatt,Zenith Property Group,false,2025-01-22
+AGT-065,Nadia Ali,Northgate Realty,true,2023-08-10
+AGT-065,Nadia Ali,Summit Gate Properties,true,2025-07-05
+AGT-066,Daniel Iyer,Desert Rose Estates,true,2023-10-10
+AGT-067,Elena Kapoor,Crescent Property Advisors,true,2023-11-03
+AGT-067,Elena Kapoor,Lotus Grove Properties,true,2026-03-18
+AGT-068,Daniel Lopez,Falcon Ridge Properties,false,2024-12-16
+AGT-068,Daniel Lopez,Falcon Ridge Properties,true,2025-11-10
+AGT-069,Ivan Hussein,Northgate Realty,false,2025-02-25
+AGT-069,Ivan Hussein,Northgate Realty,true,2026-01-01
+AGT-070,Ivan Costa,Blue Harbour Estates,false,2023-03-17
+AGT-070,Ivan Costa,Blue Harbour Estates,true,2023-11-14
+AGT-070,Ivan Costa,Cedar Lane Homes,true,2025-05-30
+AGT-071,Yara Mitchell,Coral Bay Real Estate,true,2022-11-17
+AGT-072,Hana Zaman,Harbour & Co Realty,true,2023-06-23
+AGT-073,Zainab Al Suwaidi,Coral Bay Real Estate,false,2024-07-12
+AGT-074,Lina Iyer,Coral Bay Real Estate,true,2022-04-15
+AGT-075,Rohan Ortiz,Palmview Realty,true,2025-08-13
+AGT-076,Leila Sharma,Ironwood Property Partners,false,2025-11-30
+AGT-076,Leila Sharma,Ironwood Property Partners,true,2026-03-04
+AGT-077,Ahmed Petrov,Zenith Property Group,false,2025-10-13
+AGT-077,Ahmed Petrov,Zenith Property Group,true,2026-06-05
+AGT-078,Nadia Costa,Ironwood Property Partners,false,2024-03-03
+AGT-079,Yusuf Youssef,Skybridge Properties,true,2023-10-04
+AGT-080,Arjun Darwish,Zenith Property Group,false,2023-02-03
+AGT-081,Vikram Hussein,Amber Coast Properties,true,2025-03-22
+AGT-082,Ravi Iyer,Palmview Realty,true,2022-07-08
+AGT-083,Mariam Aziz,Blue Harbour Estates,true,2025-11-07
+AGT-084,Bilal Novak,Crescent Property Advisors,false,2025-08-26
+AGT-084,Bilal Novak,Crescent Property Advisors,true,2025-09-26
+AGT-085,Leila Farouk,Coral Bay Real Estate,false,2023-12-14
+AGT-086,Adil Nasser,Falcon Ridge Properties,true,2025-10-25
+AGT-087,Daniel Novak,Meridian Homes,false,2022-08-28
+AGT-087,Daniel Novak,Meridian Homes,true,2022-12-04
+AGT-088,Leila Bhatt,Golden Dune Realty,true,2024-05-23
+AGT-089,Lina Thomas,Zenith Property Group,false,2026-01-11
+AGT-090,Vikram Siddiqui,Crescent Property Advisors,true,2024-09-28
+AGT-091,Hana Mitchell,Pearl Anchor Realty,true,2022-12-19
+AGT-092,Khalid Verma,Summit Gate Properties,false,2024-04-15
+AGT-092,Khalid Verma,Summit Gate Properties,true,2025-10-06
+AGT-093,Noor Hussein,Golden Dune Realty,true,2022-12-29
+AGT-094,Rohan Sultan,Amber Coast Properties,true,2022-03-15
+AGT-095,Faisal Rashid,Amber Coast Properties,false,2025-09-07
+AGT-095,Faisal Rashid,Amber Coast Properties,true,2025-11-04
+AGT-096,Marco Mitchell,Redstone Real Estate,true,2024-07-06
+AGT-097,Amira Zaman,Blue Harbour Estates,false,2023-09-22
+AGT-098,Ivan Haddad,Sandstone Properties,true,2023-11-04
+AGT-099,Vikram Novak,Harbour & Co Realty,true,2022-01-23
+AGT-100,Fatima Nasser,Ironwood Property Partners,true,2022-03-31
+AGT-101,Fatima Costa,Oasis Key Realty,false,2023-10-08
+AGT-102,Rania Yilmaz,Tidewater Estates,true,2022-10-05
+AGT-103,Karim Haddad,Lotus Grove Properties,true,2023-05-13
+AGT-103,Karim Haddad,Palmview Realty,true,2025-07-27
+AGT-104,Rania Al Mansoori,Tidewater Estates,true,2026-02-09
+AGT-105,Hana Verma,Golden Dune Realty,false,2023-12-10
+AGT-105,Hana Verma,Golden Dune Realty,true,2025-08-11
+AGT-106,Priya Costa,Tidewater Estates,true,2023-11-13
+AGT-107,Ines Ortiz,Golden Dune Realty,true,2023-09-29
+AGT-107,Ines Ortiz,Falcon Ridge Properties,true,2025-06-25
+AGT-108,Adil Barakat,Meridian Homes,true,2022-06-24
+AGT-109,Ravi Mitchell,Ironwood Property Partners,true,2024-05-09
+AGT-110,Marco Farouk,Tidewater Estates,false,2024-06-29
+AGT-110,Marco Farouk,Tidewater Estates,true,2025-02-18
+AGT-111,Jamal Verma,Redstone Real Estate,false,2023-02-15
+AGT-111,Jamal Verma,Redstone Real Estate,true,2024-08-21
+AGT-112,Mariam Sultan,Gulf Horizon Realty,false,2022-03-28
+AGT-113,Karim Menon,Sandstone Properties,false,2024-10-13
+AGT-113,Karim Menon,Sandstone Properties,true,2025-02-14
+AGT-114,Bilal Thomas,Pearl Anchor Realty,true,2024-02-16
+AGT-115,Ines Novak,Crescent Property Advisors,true,2023-11-15
+AGT-116,Ivan Verma,Pearl Anchor Realty,true,2025-12-24
+AGT-117,Sofia Khan,Oasis Key Realty,false,2024-10-18
+AGT-118,Zainab Fernandes,Ironwood Property Partners,true,2025-10-03
+AGT-119,Daniel Verma,Oasis Key Realty,true,2022-07-11
+AGT-119,Daniel Verma,Desert Rose Estates,true,2025-10-01
+AGT-120,Marco Yilmaz,Northgate Realty,true,2024-03-01
