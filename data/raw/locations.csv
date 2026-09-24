@@ -1,0 +1,34 @@
+location_id,emirate,city,community,sub_community,market_tier
+LOC-001,Dubai,Dubai,Dubai Marina,Marina Promenade,Prime
+LOC-002,Dubai,Dubai,Dubai Marina,Marina Gate,Prime
+LOC-003,Dubai,Dubai,Downtown Dubai,Old Town,Prime
+LOC-004,Dubai,Dubai,Downtown Dubai,Burj Views,Prime
+LOC-005,Dubai,Dubai,Palm Jumeirah,Shoreline Apartments,Prime
+LOC-006,Dubai,Dubai,Palm Jumeirah,Signature Villas,Prime
+LOC-007,Dubai,Dubai,Business Bay,Executive Towers,Mid-market
+LOC-008,Dubai,Dubai,Business Bay,Bay Square,Mid-market
+LOC-009,Dubai,Dubai,Jumeirah Village Circle,JVC District 10,Affordable
+LOC-010,Dubai,Dubai,Jumeirah Village Circle,JVC District 12,Affordable
+LOC-011,Dubai,Dubai,Jumeirah Lake Towers,Cluster D,Mid-market
+LOC-012,Dubai,Dubai,Jumeirah Lake Towers,Cluster T,Mid-market
+LOC-013,Dubai,Dubai,Dubai Hills Estate,Sidra,Mid-market
+LOC-014,Dubai,Dubai,Dubai Hills Estate,Park Heights,Mid-market
+LOC-015,Dubai,Dubai,Arabian Ranches,Alvorada,Mid-market
+LOC-016,Dubai,Dubai,Arabian Ranches,Palmera,Mid-market
+LOC-017,Dubai,Dubai,Mirdif,N/A,Affordable
+LOC-018,Dubai,Dubai,Dubai Silicon Oasis,N/A,Affordable
+LOC-019,Dubai,Dubai,Dubai Sports City,N/A,Affordable
+LOC-020,Dubai,Dubai,Al Barsha South,N/A,Affordable
+LOC-021,Dubai,Dubai,Deira,N/A,Affordable
+LOC-022,Dubai,Dubai,Damac Hills,N/A,Mid-market
+LOC-023,Abu Dhabi,Abu Dhabi,Al Reem Island,Shams Abu Dhabi,Mid-market
+LOC-024,Abu Dhabi,Abu Dhabi,Al Reem Island,Marina Square,Mid-market
+LOC-025,Abu Dhabi,Abu Dhabi,Yas Island,Yas Acres,Mid-market
+LOC-026,Abu Dhabi,Abu Dhabi,Yas Island,Ansam,Mid-market
+LOC-027,Abu Dhabi,Abu Dhabi,Saadiyat Island,Saadiyat Beach,Prime
+LOC-028,Abu Dhabi,Abu Dhabi,Al Reef,N/A,Affordable
+LOC-029,Abu Dhabi,Al Ain,Al Jimi,N/A,Affordable
+LOC-030,Abu Dhabi,Al Ain,Hili,N/A,Affordable
+LOC-031,Sharjah,Sharjah,Al Khan,N/A,Affordable
+LOC-032,Sharjah,Sharjah,Al Majaz,N/A,Affordable
+LOC-033,Sharjah,Sharjah,Aljada,N/A,Mid-market
