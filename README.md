@@ -50,6 +50,8 @@ python run_queries.py q06            # or just one
 python run_queries.py --markdown     # regenerate docs/sample_query_results.md
 ```
 
+CI runs the build and all eight queries on every push and pull request, so a change that breaks a quality check or a query fails there first.
+
 `build.py` sets its own working directory. If you run the SQL files by hand (for example in the DuckDB CLI), do so from the project root, because they read `data/raw/*.csv` by relative path. To regenerate the source CSVs (deterministic, fixed seed): `python data/generate_sample_data.py`.
 
 To explore interactively: `python -c "import duckdb; duckdb.connect('warehouse.duckdb').sql('SELECT * FROM dim_agent LIMIT 5').show()"`, or open `warehouse.duckdb` in the DuckDB CLI.
